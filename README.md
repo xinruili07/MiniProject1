@@ -1,1 +1,1 @@
-## COMP 551 Mini-Project 1
+## Analyzing COVID-19 Search Trends and Hospitalization
